@@ -1,3 +1,5 @@
+import controller
+
 def menu():
     print("1. ")
     print("2. Linear")
